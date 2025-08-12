@@ -84,6 +84,6 @@ We’ll spit it in plain speak (and bars if you’re wise)."
 ---
 
 ### Contact Us
-**If you have any questions about this privacy policy, please contact us via email.**
+**If you have any questions about this privacy policy, please contact us via email. [Contact Support](mailto:innercritics@gmail.com)**
 
 *The Boss says:* "All inquiries, complaints, and feedback are to be submitted in writing via email. We will file it accordingly. Keep your emotional baggage to a minimum; this isn't therapy."
